@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d367cd1-5f49-43b5-8057-9931bc7d9b69": {
+      "ProjectGuid": "8d367cd1-5f49-43b5-8057-9931bc7d9b69",
+      "DisplayName": "CreateurDeCV",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
